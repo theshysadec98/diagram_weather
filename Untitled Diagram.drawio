@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-16T09:00:39.604Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="grJ3sn8daLtcBezFD6Qz" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-16T09:14:25.341Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="hxhXX58gGE4PX9_ITypk" version="16.5.6" type="github">
   <diagram id="2VKphMpQnsFtxef0W3cm" name="Page-1">
-    <mxGraphModel dx="979" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1420" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -90,6 +90,9 @@
         </mxCell>
         <mxCell id="hOjt1TtIsqbU7f9ntN-e-27" value="&lt;pre&gt;&lt;font face=&quot;jetbrains mono, monospace&quot; style=&quot;font-size: 13.0667px ; background-color: rgb(255 , 255 , 255)&quot; color=&quot;#1a1a1a&quot;&gt;axle.deivce&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="570" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hOjt1TtIsqbU7f9ntN-e-28" value="&lt;b&gt;Postgres-db&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="720" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
